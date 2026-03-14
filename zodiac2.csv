@@ -1,0 +1,101 @@
+Department and Year,Acknowledgement,Checking.forecasts,Visiting.Astrologer,Reason,Belief,Zodiac,Optimism,Empathy,Patience,Impulsivity,Organisation,Age,Health,Diseased,Medication,Mental.Health,Stress,Nature,Lifestyle,Aptitude,Hometown,Ethnicity,Religion,Gender,Education,Culture,Location
+STSA-UG3,1,1,1,Have not visited,1,Aries,3,4,3,4,2,22,4,no,no,3,5,Introvert,3,4,Kolkata,Bengali,Hinduism,Male,Higher Secondary,Bengali,Kolkata
+STSA-UG3,1,1,1,Have not visited,1,Aries,4,4,4,2,2,21,3,yes,no,3,5,Introvert,4,2,Kolkata,Bengali,Atheist,Male,Higher Secondary,Bengali,Kolkata
+STSA-UG3,3,2,1,Curiosity,2,Aries,5,4,3,4,2,20,4,no,no,4,3,Extrovert,4,4,Lucknow,Kshtriya ,Hinduism,Male,Higher Secondary,Non-Bengali,Not Kolkata
+STSA-UG3,2,1,1,Have not visited,2,Aries,2,2,2,1,2,20,5,no,no,4,3,Extrovert,4,5,Kolkata,Punjabi,Hinduism,Male,Higher Secondary,Non-Bengali,Kolkata
+STSA-UG3,2,1,1,Have not visited,1,Aries,3,4,4,5,2,20,2,yes,no,3,3,Ambivert,3,3,Kolkata,Oriya,Hinduism,Male,Higher Secondary,Non-Bengali,Kolkata
+STSA-UG3,2,1,1,Have not visited,3,Aries,3,5,3,4,4,21,4,no,no,3,4,Ambivert,4,3,Kolkata,Bengali,Hinduism,Male,Higher Secondary,Bengali,Kolkata
+STSA-UG3,1,1,1,Have not visited,1,Aries,1,2,2,1,1,21,3,no,no,3,4,Introvert,3,3,Kolkata,Bengali,Hinduism,Female,Higher Secondary,Bengali,Kolkata
+STSA-UG1,3,2,1,Have not visited,2,Aries,2,2,2,1,2,19,3,yes,no,1,3,Ambivert,3,2,Chandannagar ,Bengali,Hinduism,Female,Higher Secondary,Bengali,Not Kolkata
+MDTS-PG1,2,2,1,Curiosity,3,Taurus,4,4,2,4,4,19,4,no,no,3,3,Ambivert,2,3,Howrah ,Bengali,Hinduism,Male,Bachelors graduate,Bengali,Not Kolkata
+STSA UG-1 ,3,3,1,Have not visited,2,Taurus,1,2,2,1,1,21,4,no,no,3,3,Ambivert,4,4,Kolkata,Bengali,Hinduism,Female,Higher Secondary,Bengali,Kolkata
+STSA UG-1 ,2,1,1,Influnced by others,2,Taurus,3,2,3,4,4,20,3,yes,yes,3,4,Ambivert,3,3,Kolkata,Bengali,Hinduism,Female,Higher Secondary,Bengali,Kolkata
+STSA-UG3,2,3,1,Have not visited,2,Taurus,4,4,3,2,3,20,4,yes,no,4,3,Extrovert,4,4,Kolkata,Bengali,Hinduism,Female,Higher Secondary,Bengali,Kolkata
+STSA-UG3,1,1,1,Have not visited,1,Taurus,5,4,5,3,4,22,4,yes,no,5,3,Ambivert,4,4,Kolkata,Bengali,Hinduism,Female,Higher Secondary,Bengali,Kolkata
+BAGG-UG3,3,3,1,Influnced by others,3,Taurus,4,4,2,5,4,21,3,yes,yes,3,3,Extrovert,4,3,Haflong,Manipuri,Christianity,Male,Higher Secondary,Non-Bengali,Not Kolkata
+BMS-UG3,3,1,2,Influnced by others,4,Taurus,4,5,4,3,4,20,4,no,no,3,4,Extrovert,3,3,Raniganj,Marwari ,Hinduism,Male,Higher Secondary,Non-Bengali,Not Kolkata
+STSA-UG3,1,1,1,Have not visited,1,Gemini,4,4,4,5,3,21,4,no,no,3,3,Ambivert,4,3,Baramulla,Kashmiri,Islam,Female,Higher Secondary,Non-Bengali,Not Kolkata
+STSA-UG1,2,1,1,Have not visited,2,Gemini,1,2,1,1,2,20,4,no,no,3,5,Introvert,3,2,Kolkata,Bengali,Hinduism,Male,Higher Secondary,Bengali,Kolkata
+FNTA-UG3,3,4,3,Beliefs,2,Gemini,1,2,2,1,1,20,4,no,no,3,3,Introvert,4,3,Khardah,Bengali,Hinduism,Female,Higher Secondary,Bengali,Not Kolkata
+STSA-UG3,3,1,1,Have not visited,2,Cancer,1,1,1,1,1,20,3,yes,yes,3,4,Ambivert,4,2,Kolkata,Bengali,Hinduism,Female,Higher Secondary,Bengali,Kolkata
+STSA-UG3,2,2,1,Have not visited,3,Cancer,4,4,4,3,4,20,4,no,no,4,3,Ambivert,3,3,Kolkata,Bengali,Christianity,Female,Higher Secondary,Bengali,Kolkata
+STSA-UG1,3,3,1,Have not visited,3,Cancer,2,1,1,2,1,20,4,no,no,3,4,Ambivert,3,3,Kolkata,Delhite,Islam,Male,Higher Secondary,Non-Bengali,Kolkata
+STSA-UG1,2,1,1,Have not visited,1,Cancer,1,2,2,1,1,20,3,yes,yes,2,3,Introvert,3,4,Asansol ,Bengali,Hinduism,Female,Higher Secondary,Bengali,Not Kolkata
+STSA-UG2,1,1,1,Have not visited,1,Cancer,1,1,2,2,3,22,3,no,no,3,5,Ambivert,3,5,Rajpur,Bengali,Hinduism,Female,Higher Secondary,Bengali,Not Kolkata
+STSA-UG2,2,1,1,Beliefs,1,Cancer,4,4,2,3,4,20,4,yes,yes,5,3,Introvert,4,3,Kolkata,Bengali,Hinduism,Female,Higher Secondary,Bengali,Kolkata
+MDTS -PG1,2,2,1,Have not visited,1,Leo,1,2,1,2,2,20,3,yes,yes,4,4,Ambivert,3,3,Gumla,Oraon ,Christianity,Female,Bachelors graduate,Non-Bengali,Not Kolkata
+STSA-UG1,4,4,2,Beliefs,1,Leo,4,4,4,3,3,20,4,no,no,4,2,Extrovert,4,4,Kolkata,Bengali,Hinduism,Male,Higher Secondary,Bengali,Kolkata
+STSA-UG1,1,2,1,Have not visited,2,Leo,2,1,1,2,2,19,4,yes,yes,2,3,Ambivert,4,4,Baruipur ,Bengali,Hinduism,Male,Higher Secondary,Bengali,Not Kolkata
+STSA-UG1,1,2,2,Influnced by others,3,Leo,4,4,5,1,5,20,3,no,no,3,4,Introvert,4,3,Kolkata,Bengali,Hinduism,Female,Higher Secondary,Bengali,Kolkata
+STSA-UG1,1,1,1,Have not visited,1,Leo,3,4,4,1,3,20,3,no,no,3,4,Ambivert,3,3,Hooghly  ,Bengali,Hinduism,Female,Higher Secondary,Bengali,Not Kolkata
+BBAG-UG3,1,1,1,Have not visited,1,Leo,3,4,4,1,3,21,4,no,no,3,4,Introvert,2,3,Kolkata,Bengali,Hinduism,Male,Higher Secondary,Bengali,Kolkata
+COMA-UG1,4,4,2,Beliefs,2,Leo,2,4,4,2,3,20,3,no,no,3,4,Introvert,3,3,Darbhanga ,Maithili,Hinduism,Male,Higher Secondary,Non-Bengali,Not Kolkata
+MCVA-UG3,2,2,1,Have not visited,1,Virgo,5,4,2,4,4,21,4,yes,yes,5,1,Ambivert,5,5,Kurseong,Lepcha ,Christianity,Female,Higher Secondary,Non-Bengali,Not Kolkata
+STSA-UG3,3,2,2,Beliefs,4,Virgo,2,2,2,1,2,21,4,yes,yes,4,1,Ambivert,5,5,Kolkata,Bengali,Hinduism,Female,Higher Secondary,Bengali,Kolkata
+STSA-UG3,1,1,1,Have not visited,1,Virgo,3,5,4,4,4,20,4,no,no,4,3,Introvert,4,4,Howrah ,Bengali,Hinduism,Male,Higher Secondary,Bengali,Not Kolkata
+STSA-UG3,2,1,1,Have not visited,2,Virgo,1,1,1,1,1,18,4,no,no,4,4,Introvert,4,4,Mednipur ,Bengali,Hinduism,Male,Higher Secondary,Bengali,Not Kolkata
+STSA-UG1,1,1,1,Influnced by others,2,Virgo,1,4,1,5,2,19,4,no,yes,3,2,Introvert,3,2,Bandel,Bihari,Hinduism,Male,Higher Secondary,Non-Bengali,Not Kolkata
+STSA-UG1,3,3,1,Have not visited,1,Virgo,2,2,1,1,1,20,3,no,no,4,5,Extrovert,3,4,Kolkata,Marwari ,Hinduism,Female,Higher Secondary,Non-Bengali,Kolkata
+STSA-UG1,1,1,1,Have not visited,1,Virgo,4,2,4,2,3,20,4,no,no,4,3,Introvert,3,4,New Barrackpore ,Bengali,Atheist,Male,Higher Secondary,Bengali,Not Kolkata
+MTMA-UG3,3,3,1,Have not visited,1,Virgo,4,3,5,2,3,19,4,no,no,4,2,Introvert,4,3,Chennai ,Tamilian,Hinduism,Female,Higher Secondary,Non-Bengali,Not Kolkata
+STSA-UG3,2,2,2,Curiosity,3,Libra,2,2,2,2,3,18,3,yes,yes,4,4,Extrovert,3,4,Kolkata,Bengali,Hinduism,Female,Higher Secondary,Bengali,Kolkata
+STSA-UG3,1,1,1,Have not visited,1,Libra,2,2,1,1,1,18,5,no,no,3,4,Ambivert,4,4,Kolkata,Bengali,Hinduism,Male,Higher Secondary,Bengali,Kolkata
+STSA-UG3,3,1,1,Have not visited,3,Libra,2,4,4,3,5,20,4,no,no,4,2,Introvert,5,3,Deoghar,Marwari ,Hinduism,Male,Higher Secondary,Non-Bengali,Not Kolkata
+STSA-UG3,1,1,1,Have not visited,1,Libra,4,3,5,3,4,18,4,no,no,4,3,Introvert,4,4,Kolkata,Bengali,Hinduism,Male,Higher Secondary,Bengali,Kolkata
+STSA-UG3,3,3,2,Curiosity,3,Libra,3,3,1,3,4,20,2,yes,no,3,3,Ambivert,4,3,Coochbehar ,Bengali,Hinduism,Male,Higher Secondary,Bengali,Not Kolkata
+STSA-UG3,1,1,1,Curiosity,1,Libra,3,2,4,1,3,20,3,no,no,4,3,Ambivert,4,4,Kolkata,Bengali,Hinduism,Male,Higher Secondary,Bengali,Kolkata
+STSA-UG1,2,2,1,Have not visited,2,Libra,4,4,1,1,3,18,3,no,no,3,3,Introvert,2,4,Bally,Bengali,Hinduism,Female,Higher Secondary,Bengali,Not Kolkata
+STSA-UG1,1,2,1,Have not visited,1,Libra,2,2,2,2,5,18,3,yes,yes,3,3,Ambivert,4,4,Kolkata,Bengali,Hinduism,Female,Higher Secondary,Bengali,Kolkata
+STSA-UG1,1,1,1,Have not visited,1,Libra,2,2,1,2,1,19,5,no,no,4,4,Ambivert,4,3,Bally,Bengali,Hinduism,Male,Higher Secondary,Bengali,Not Kolkata
+STSA-UG1,3,3,1,Have not visited,3,Libra,3,4,4,3,4,19,4,no,yes,3,3,Introvert,3,3,Kolkata,Bengali,Hinduism,Female,Higher Secondary,Bengali,Kolkata
+STSA-UG2,1,1,1,Have not visited,1,Libra,3,4,4,4,2,20,3,no,no,4,3,Introvert,3,4,Konnagar ,Bengali,Hinduism,Female,Higher Secondary,Bengali,Not Kolkata
+STSA-UG2,1,1,1,Have not visited,1,Libra,2,4,5,3,5,20,4,no,no,2,5,Extrovert,4,4,Kolkata,Bengali,Hinduism,Female,Higher Secondary,Bengali,Kolkata
+CMEA-UG3,3,3,1,Have not visited,1,Libra,2,2,1,2,2,20,3,no,no,2,4,Introvert,3,4,Dumka,Maithili,Christianity,Female,Higher Secondary,Non-Bengali,Not Kolkata
+COMA-UG2,3,2,1,Have not visited,4,Libra,2,2,2,1,2,18,3,no,no,4,3,Ambivert,5,3,Kolkata,Marwari ,Hinduism,Male,Higher Secondary,Non-Bengali,Kolkata
+MDTS-PG1,3,2,2,Curiosity,2,Sagittarius,2,2,1,2,1,18,3,no,no,4,3,Ambivert,4,4,Baruipur ,Bengali,Hinduism,Female,Bachelors graduate,Bengali,Not Kolkata
+STSA- UG2,4,1,2,Beliefs,3,Sagittarius,4,4,3,3,4,21,4,yes,yes,4,3,Extrovert,3,4,Howrah ,Bengali,Hinduism,Male,Higher Secondary,Bengali,Not Kolkata
+STSA-UG3,2,1,1,Have not visited,2,Sagittarius,5,5,3,3,4,18,4,no,no,1,4,Introvert,3,4,Naihati ,Bengali,Hinduism,Male,Higher Secondary,Bengali,Not Kolkata
+STSA-UG3,4,3,1,Have not visited,3,Sagittarius,3,3,4,4,3,20,4,no,no,4,4,Introvert,4,3,Siliguri ,Lepcha ,Christianity,Female,Higher Secondary,Non-Bengali,Not Kolkata
+STSA-UG3,3,3,1,Have not visited,3,Sagittarius,4,4,3,4,4,18,4,yes,no,4,3,Ambivert,3,4,Mednipur ,Bengali,Hinduism,Male,Higher Secondary,Bengali,Not Kolkata
+STSA-UG1,4,4,3,Beliefs,2,Sagittarius,4,4,3,4,4,17,3,no,no,1,5,Ambivert,3,5,Kolkata,Marwari ,Hinduism,Male,Higher Secondary,Non-Bengali,Kolkata
+STSA-UG1,1,1,1,Have not visited,1,Sagittarius,3,5,4,4,3,18,4,no,no,4,3,Ambivert,4,5,Chandannagar ,Bengali,Hinduism,Female,Higher Secondary,Bengali,Not Kolkata
+STSA-UG1,3,2,1,Have not visited,2,Sagittarius,2,4,3,5,3,22,3,yes,yes,2,4,Ambivert,3,3,Bardhamann ,Bengali,Hinduism,Female,Higher Secondary,Bengali,Not Kolkata
+CMSA-UG3,1,2,1,Have not visited,1,Sagittarius,3,4,3,4,5,23,4,no,no,3,4,Extrovert,4,4,Kolkata,Marwari ,Hinduism,Female,Higher Secondary,Non-Bengali,Kolkata
+PHSA-UG3,1,1,1,Have not visited,1,Sagittarius,4,3,3,4,4,24,3,no,no,3,4,Ambivert,3,4,Kolkata,Bengali,Hinduism,Female,Higher Secondary,Bengali,Kolkata
+MDTS -PG1,4,1,1,Have not visited,2,Aquarius,2,2,1,2,1,22,5,no,no,5,5,Ambivert,5,4,Asansol ,Bengali,Hinduism,Male,Bachelors graduate,Bengali,Not Kolkata
+STSA-UG3,3,2,1,Have not visited,2,Aquarius,2,2,2,1,1,18,4,no,no,3,3,Introvert,4,3,Kolkata,Bengali,Hinduism,Male,Higher Secondary,Bengali,Kolkata
+STSA-UG3,3,1,1,Have not visited,1,Aquarius,4,3,4,4,4,21,3,no,no,4,3,Introvert,3,4,Kakdwip,Bengali,Hinduism,Male,Higher Secondary,Bengali,Not Kolkata
+STSA-UG1,1,1,1,Have not visited,1,Aquarius,1,1,1,1,2,19,3,no,no,2,2,Introvert,4,5,Batanagar,Bengali,Hinduism,Male,Higher Secondary,Bengali,Not Kolkata
+STSA-UG1,2,2,1,Have not visited,2,Aquarius,3,3,4,5,4,21,4,no,no,4,3,Ambivert,5,4,Kolkata,Bengali,Hinduism,Male,Higher Secondary,Bengali,Kolkata
+STSA-UG1,4,5,1,Have not visited,4,Aquarius,3,5,1,5,2,21,4,yes,yes,2,5,Extrovert,3,3,Konnagar ,Bengali,Hinduism,Female,Higher Secondary,Bengali,Not Kolkata
+STSA-UG1,1,1,1,Have not visited,1,Aquarius,4,4,3,2,4,18,3,yes,yes,4,2,Ambivert,4,4,Baruipur ,Bengali,Islam,Male,Higher Secondary,Bengali,Not Kolkata
+STSA-UG2,4,2,2,Curiosity,2,Aquarius,1,1,2,1,1,21,3,no,no,4,2,Ambivert,4,2,Kolkata,Lucknowavi,Hinduism,Male,Higher Secondary,Non-Bengali,Kolkata
+CMEA-UG1,4,2,1,Have not visited,1,Aquarius,4,4,3,3,4,19,3,no,no,4,3,Ambivert,3,3,Rajasthan,Marwari ,Hinduism,Female,Higher Secondary,Non-Bengali,Not Kolkata
+CMEA-UG3,4,4,2,Beliefs,3,Aquarius,3,3,4,3,4,21,3,no,no,4,3,Ambivert,3,4,Kolkata,Marwari ,Hinduism,Female,Higher Secondary,Non-Bengali,Kolkata
+MCVA-UG3,4,2,1,Have not visited,2,Capricornus,3,4,4,5,5,18,3,no,no,2,4,Ambivert,5,3,Kolkata,Chinese,Christianity,Female,Higher Secondary,Non-Bengali,Kolkata
+MDTS-PG1,1,1,1,Have not visited,1,Capricornus,1,1,2,1,1,19,3,yes,no,3,4,Ambivert,4,3,Raghunathganj ,Bengali,Hinduism,Male,Bachelors graduate,Bengali,Not Kolkata
+MDTS-PG1 ,4,2,1,Have not visited,3,Capricornus,3,5,2,4,2,20,3,yes,yes,3,4,Extrovert,3,4,Kalyani,Bengali,Hinduism,Female,Bachelors graduate,Bengali,Not Kolkata
+STSA-UG3,1,1,1,Have not visited,1,Capricornus,3,4,4,2,5,19,4,no,no,2,4,Extrovert,2,3,Kolkata,Bengali,Hinduism,Male,Higher Secondary,Bengali,Kolkata
+STSA-UG3,2,2,1,Have not visited,2,Capricornus,2,4,1,5,3,18,3,no,no,3,4,Ambivert,3,4,Kolkata,Bengali,Hinduism,Male,Higher Secondary,Bengali,Kolkata
+STSA-UG3,2,3,1,Have not visited,1,Capricornus,1,1,1,1,1,18,3,no,no,4,3,Ambivert,4,3,Sainthia,Bengali,Hinduism,Female,Higher Secondary,Bengali,Not Kolkata
+STSA-UG3,3,3,2,Influnced by others,3,Capricornus,3,4,3,3,4,20,4,yes,yes,4,3,Introvert,4,4,Kolkata,Bengali,Hinduism,Female,Higher Secondary,Bengali,Kolkata
+STSA-UG1,2,1,1,Have not visited,1,Capricornus,2,2,2,1,2,20,4,no,no,2,2,Introvert,3,1,Kolkata,Bengali,Hinduism,Male,Higher Secondary,Bengali,Kolkata
+MDTS-PG1,3,3,2,Beliefs,3,Pisces,1,1,1,1,1,21,3,no,no,3,3,Ambivert,4,3,Kharagpur ,Bengali,Hinduism,Female,Bachelors graduate,Bengali,Not Kolkata
+STSA-UG3,1,1,2,Curiosity,2,Pisces,4,5,4,2,4,19,3,no,no,3,4,Ambivert,3,4,Kolkata,Bengali,Hinduism,Female,Higher Secondary,Bengali,Kolkata
+STSA-UG3,1,2,1,Have not visited,2,Pisces,3,4,3,4,4,19,4,no,no,3,3,Introvert,4,4,Kolkata,Bengali,Hinduism,Female,Higher Secondary,Bengali,Kolkata
+STSA-UG1,2,1,1,Have not visited,3,Pisces,3,5,3,4,3,20,2,yes,yes,4,3,Introvert,3,3,Konnagar ,Bengali,Hinduism,Male,Higher Secondary,Bengali,Not Kolkata
+STSA-UG1,2,3,1,Have not visited,2,Pisces,2,1,2,1,1,18,4,no,yes,4,3,Ambivert,4,5,Kolkata,Bengali,Hinduism,Male,Higher Secondary,Bengali,Kolkata
+STSA-UG2,1,3,1,Have not visited,1,Pisces,2,2,1,2,2,20,4,no,yes,3,3,Extrovert,3,2,Katwa,Bengali,Hinduism,Male,Higher Secondary,Bengali,Not Kolkata
+STSA-UG3,3,3,5,Influnced by others,4,Pisces,2,1,2,1,2,18,4,yes,no,3,4,Ambivert,4,3,Arambagh ,Bengali,Hinduism,Male,Higher Secondary,Bengali,Not Kolkata
+CMEA-UG2,3,2,3,Curiosity,2,Pisces,4,4,3,2,4,19,3,no,no,4,3,Extrovert,4,4,Tinsukia,Marwari ,Hinduism,Female,Higher Secondary,Non-Bengali,Not Kolkata
+MCBA-UG1,3,1,1,Have not visited,2,Scorpius,2,3,2,3,3,19,4,no,no,3,3,Ambivert,4,3,Kolkata,Bengali,Hinduism,Male,Higher Secondary,Bengali,Kolkata
+STSA-UG3,3,3,1,Have not visited,2,Scorpius,3,4,4,4,4,21,4,no,no,3,3,Ambivert,3,3,Kolkata,Bengali,Hinduism,Female,Higher Secondary,Bengali,Kolkata
+STSA-UG3,3,3,2,Influnced by others,2,Scorpius,4,4,3,3,3,18,4,yes,yes,3,4,Ambivert,4,3,Kolkata,Bengali,Hinduism,Female,Higher Secondary,Bengali,Kolkata
+STSA-UG1,2,2,2,Influnced by others,3,Scorpius,4,4,4,3,4,19,5,no,no,5,2,Ambivert,4,3,Kolkata,Bengali,Hinduism,Male,Higher Secondary,Bengali,Kolkata
+STSA-UG2,2,2,1,Have not visited,1,Scorpius,3,3,3,4,4,17,3,no,no,5,4,Ambivert,4,4,Kolkata,Bengali,Atheist,Male,Higher Secondary,Bengali,Kolkata
+STSA-UG2,1,1,1,Have not visited,1,Scorpius,2,2,2,1,1,20,3,no,no,3,3,Introvert,3,3,Kolkata,Bengali,Hinduism,Female,Higher Secondary,Bengali,Kolkata
+STSA-UG2,1,1,1,Have not visited,1,Scorpius,3,4,4,2,3,21,4,no,no,4,3,Introvert,4,3,Kolkata,Bengali,Hinduism,Male,Higher Secondary,Bengali,Kolkata
+BBAG-UG3,1,1,1,Have not visited,2,Scorpius,2,2,2,2,2,19,5,no,no,4,3,Introvert,4,4,Kolkata,Bengali,Christianity,Male,Higher Secondary,Bengali,Kolkata
+CMEA-UG1,3,2,1,Have not visited,2,Scorpius,3,3,4,2,3,19,3,no,no,3,3,Introvert,4,2,Odisha ,Bihari,Hinduism,Female,Higher Secondary,Non-Bengali,Not Kolkata
+COMA-UG2,5,4,3,Beliefs,4,Scorpius,2,2,2,1,2,21,4,no,no,4,4,Ambivert,3,4,Kolkata,Rajput,Hinduism,Male,Higher Secondary,Non-Bengali,Kolkata
+MCVA-UG1,4,3,1,Beliefs,4,Aquarius,3,4,2,4,3,19,4,no,no,4,3,Ambivert,4,3,Kolkata,Bengali,Hinduism,Female,Higher Secondary,Bengali,Kolkata
